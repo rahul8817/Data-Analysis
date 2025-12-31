@@ -3,7 +3,7 @@
     - Use the top 10 highest-paying DA jobs from the first query
     - Add the specific skills required for these roles
     - Why? It provides a detailed look at which high-paying roles demand what skills, 
-        helping job seekers understand which skills to develop to allign with the top salaries.
+        helping job seekers understand which skills to develop to allign with the top-paying salaries.
 */
 
 
