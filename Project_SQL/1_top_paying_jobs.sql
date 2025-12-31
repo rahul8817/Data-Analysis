@@ -3,6 +3,7 @@
     - Identify the top 10 highest paying DA roles that are remotely available
     - Focus on the job postings with specified salaries (remove nulls)
     - Why? Highlight the top paying oppurtunities for DA, offering insights into optimal skills to be a DA
+    - Query can be modified to get insights for any role
 */
 
 SELECT
