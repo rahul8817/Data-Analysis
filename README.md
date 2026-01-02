@@ -73,5 +73,5 @@ This project was more than just a technical exercise, it was a strategic explora
 
     1. # -> headers
         - no of '#' is header like H1 is #, H2 is ## and so on
-
+        Incomplete
  -->
